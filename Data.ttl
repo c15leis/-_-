@@ -1,0 +1,40 @@
+@prefix voc: <http://dilab77.ionio.gr/swp/leisos/vocab#> .
+@prefix rsc: <http://dilab77.ionio.gr/swp/leisos/rscource/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+
+_:bnode0 a voc:Course .
+rsc:Οικονόμου rdf:type voc:Teacher .
+rsc:Ψ_Λ rdf:type voc:CourseName .
+rsc:Γαληνός rdf:type voc:Class .
+
+_:bnode1 rdf:type voc:Course .
+rsc:Στεφανιδάκης rdf:type voc:Teacher .
+rsc:Π_Σ_Ι rdf:type voc:CourseName .
+
+_:bnode2 rdf:type voc:Course .
+rsc:Πατέλη rdf:type voc:Teacher .
+rsc:ΗΛ_ΕΠ rdf:type voc:CourseName .
+
+_:bnode3 rdf:type voc:Course .
+rsc:ΠΛ_ΕΚΠ rdf:type voc:CourseName .
+
+_:bnode4 rdf:type voc:Course .
+rsc:Αυλωνίτης rdf:type voc:Teacher .
+rsc:ΠΡΟΣ_ΜΟΝΤ rdf:type voc:CourseName .
+
+_:bnode5 rdf:type voc:Course .
+rsc:Κερμανίδου rdf:type voc:Teacher .
+rsc:ΠΛ_Ν_Μ rdf:type voc:CourseName .
+
+_:bnode6 rdf:type voc:Course .
+rsc:Βλάμος rdf:type voc:Teacher .
+rsc:ΒΙΟΠ rdf:type voc:CourseName .
+
+_:bnode7 rdf:type voc:Course .
+rsc:Μάγγος rdf:type voc:Teacher .
+rsc:ΑΣΦ rdf:type voc:CourseName .
+
+_:bnode8 rdf:type voc:Course .
+rsc:Μυλωνάς rdf:type voc:Teacher .
+rsc:ΕΞ_Δ rdf:type voc:CourseName .
